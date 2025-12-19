@@ -1,0 +1,6 @@
+weather,dep_hour,route,aircraft_type,delay_minutes
+Clear,9,DEL-BLR,A320,0
+Rain,18,DEL-BOM,B737,45
+Fog,6,DEL-KOL,A320,30
+Clear,14,BLR-HYD,A321,5
+Storm,20,BOM-DEL,B737,60
